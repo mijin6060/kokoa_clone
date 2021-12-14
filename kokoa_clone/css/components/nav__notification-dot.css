@@ -1,0 +1,13 @@
+.nav__notification-dot {
+  background-color: tomato;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  position: absolute;
+  left: 30px;
+  bottom: 25px;
+}
